@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Score Keeper</string>
+    <string name="Football_Scores_app">Football Scores Application</string>
+
+    <string name="Team_2">Team 2</string>
+    <string name="Team_1">Team 1</string>
+    <string name="Goal">Goal</string>
+    <string name="zero">0</string>
+    <string name="Goal_scored">Goal scored :</string>
+    <string name="penalty">Penalty</string>
+    <string name="red_card">Red Card</string>
+    <string name="yellow_card">Yellow Card</string>
+    <string name="reset">Reset</string>
+    <string name="penalties_scored">Penalties scored :</string>
+    <string name="red_card_received">Red card received :</string>
+    <string name="yellow_card_received">Yellow card received :</string>
+</resources>
